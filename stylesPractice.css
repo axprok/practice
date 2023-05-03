@@ -1,3 +1,12 @@
+/* regular page */
+
+body {
+
+background-color: #111; /* #111 Black */
+
+}
+
+
 /* The sidebar menu */
 .sidebar {
   height: 100%; /* 100% Full-height */
