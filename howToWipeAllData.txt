@@ -1,0 +1,74 @@
+How to Completely Wipe All Data From Your Computer
+
+Plus: the best way to recycle the machine when you’re done.
+Popular Mechanics
+
+    Courtney Linder
+
+How to Factory Reset a Mac
+
+    Make sure you’ve backed up all of your important data in a cloud service. For a primer on cloud services, click here.
+    Log out of all services that you use.
+    Make sure your computer is plugged in for the duration of the reset.
+    Restart in Recovery Mode: Click  and choose Restart. When the computer shuts off and powers back on, hold Command + R until you see the Apple logo.
+    You won’t see your usual login page, anymore, but instead will see a “macOS Utilities” window.
+        Choose disk utility > continue.
+        Choose the correct startup disc and select erase.
+        Choose MacOS Extended (Journaled) as the format.
+        Click erase
+        Wait until the process finishes, then go to the Disk Utility menu > quit.
+    If you like, reinstall MacOS.
+
+How to Factory Reset a PC
+
+    Repeat steps 1-3 as listed above.
+    Navigate to Settings > Update & Security > Recovery. You should see a title that says “Reset this PC.” Click Get Started.
+    You can either select Keep My Files or Remove Everything. The former resets your options to default and removes uninstalled apps, like browsers, but keeps your data intact. The latter, as its name suggests, will delete your files. In either case, back up your files in case something goes awry.
+    Use the Fresh Start option in Windows 10: Settings > Update & Security > Recovery page, Then, click the link text "Learn how to start fresh with a clean installation of Windows at the bottom. That opens a Windows Defender Security Center window to the Fresh Start option. Click Get started.
+
+Why a Reset Sometimes Isn’t Enough
+
+Inside your hard drive are two rotating discs that sort of resemble a CD. These are called platters, and they’re the pieces of hardware that actually store all of those cat videos and family photos.
+
+The platter stores data onto its circular surface in chunks of 1s and 0s. Platters are usually ceramic, glass, or aluminum, and work like a record player. Centered on a spindle, the platter rotates and an electronic current reads and writes data onto the surface. Electronic components power the whole operation.
+
+When you delete data from the computer through a factory reset, the information is hidden from the computer, but still stored on the hard drive. If a hacker uses data forensics tools, they can find bits and pieces of those deleted files in the hard drive storage, making it possible to recover pretty much everything.
+
+There’s much online debate about the best ways to completely destroy the data inside, but most solutions come down to water, hydrochloric acid, magnets, or a blunt object you can smash them with easily.
+
+These methods might sound hardcore, but three of them still aren’t completely reliable. Microwaves often don’t get hot enough to properly wipe the platters. Acid doesn't seep deeply enough inside the discs to ensure complete destruction. Hackers have recovered laptops thrown into bodies of water and dug data out of the hard drive afterward. Magnets aren't always strong enough.
+
+But smashing the platters is a different story. Just make sure you wear safety glasses, because the platters often break into tiny shards when smashed. Remember: the key to destroying the platter properly is ensuring it can’t spin. If it can't do that, the platter’s contents can’t be read.
+
+If you do want to reuse the hard drive, a factory reset should be your course of action. As stated above, first be sure you don't have any comprising information on the hard drive, because it could take a long time for new data to overwrite all of the old data on the drive.
+Solid State Drives
+
+Screenshot/Data Security, Inc.
+
+While there’s a pretty decent chance the old computer you want to nix has a hard drive disc (as it’s an older, slower form of data storage), newer computers are fast adopting a new standard called a solid state drive, or SSD. These contain the microchips you may picture inside of your phone against a green circuit board.
+
+A solid state drive is essentially a larger and more sophisticated version of a flash drive. Information is stored on microchips and contains no moving platters. This kind of drive also doesn't have magnetic coatings like a hard drive disc. Rather, solid state drives have an embedded processor, its “brain,” and interconnected memory chips that retain data.
+
+To destroy a solid state drive, you can’t use a degausser, because there's no magnetic storage. Instead, you should physically destroy the device with something like the SSMD-2MM Solid State Media Disintegrator, which is something professional data destruction companies should have. It essentially shreds up your hard drive until it's in no way recoverable.
+How to Tell If You Have a Solid State Drive
+
+On PC: press the Windows key + R to open the run box. Type in “dfrgui” and then press Enter. When the Disk Defragmenter window pops up, check the media type column to find out if you have an SSD or an HDD.
+
+On Macbook: select the  menu > About This Mac > System Report > Hardware > Storage.
+
+Otherwise, you can take the computer apart to check. If you don’t routinely work on this hardware, though, you’re better off checking out your hardware through the software menus.
+How Do I Recycle My Computer?
+
+Photo by eStewards
+
+After you’ve wiped your drive and smashed your computer, you must find a specialty recycling company that will take the parts. In other words, don’t put glass shards, aluminum, and plastic from the device into your recycling bin. Sure, the trash person may pick it up, but it’s just going to end up in a landfill because general recycling facilities don't have the capability to reuse these parts.
+
+Below are just a few places you can send your devices if they’re intact and you've only done a software wipe. Some places will give you cash for the computer, and other places will do the destroying for you.
+
+CyberCrunch: This company specializes in data destruction, so if you've done a factory reset on your laptop, but you haven't bothered to destroy or at least take out your hard drive, CyberCrunch will handle that for you. In fact, it's part of the company's recycling process. Rates aren't disclosed on the website, so you'll have to call. Simply mail in your device and it will be securely recycled.
+
+Best Buy: As far as corporate companies that offer electronics recycling go, this is one of your best options, since Best Buy has a wide span of stores. The store will let you recycle three items per household per day for free, and you can even check out the company’s trade-in program to see if you’ll get any money for it.
+
+So far, Best Buy has “responsibly disposed” of more than one billion pounds of electronic waste, which the company claims makes it the largest retail collection program in the country. The company is working with certified partners to reach two billion pounds.
+
+eStewards: Whether a full-fledged enterprise company or an individual consumer, this organization will help you find a local place to take your electronic junk, as it's part of a global mission. Through its "Find a Recycler" tool, simply enter your country, state, and zip code to find recycling shops nearby. 
